@@ -17,8 +17,9 @@
         </activity>
         <activity android:name=".HomeActivity" />
         <activity android:name=".SignupActivity" />
-        <activity android:name=".TestActivity"></activity>
-        <activity android:name=".FingareActivity"></activity>
+        <activity android:name=".TestActivity" />
+        <activity android:name=".FingareActivity" />
+        <activity android:name=".NewUser"></activity>
     </application>
 
 </manifest>
